@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Premium light fixtures and custom lighting design services for commercial and residential spaces.">
+    <meta name="keywords" content="light fixtures, custom lighting design, modern lighting, commercial lighting, residential lighting">
+    <meta name="author" content="Hira Light Fixture Design">
+    <title>Hira Light Fixture Design</title>
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <h1>Welcome to Hira Light Fixture Design</h1>
+        <p>Offering modern, elegant, and custom lighting solutions for every space.</p>
+    </header>
+
+    <!-- Products Section -->
+    <section id="products">
+        <h2>Our Products</h2>
+        <p>Explore our wide range of modern light fixtures.</p>
+        <div>
+            <img src="https://source.unsplash.com/300x200/?lighting" alt="Modern Light Fixture">
+            <p>Modern Pendant Light</p>
+        </div>
+        <div>
+            <img src="https://source.unsplash.com/300x200/?lamp" alt="Elegant Table Lamp">
+            <p>Elegant Table Lamp</p>
+        </div>
+        <div>
+            <img src="https://source.unsplash.com/300x200/?ceiling-light" alt="Custom Ceiling Light">
+            <p>Custom Ceiling Light</p>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services">
+        <h2>Our Services</h2>
+        <p>We specialize in creating custom lighting designs tailored to your needs.</p>
+        <ul>
+            <li>Residential Lighting Design</li>
+            <li>Commercial Lighting Solutions</li>
+            <li>Energy-Efficient Lighting Upgrades</li>
+        </ul>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Have questions or need a custom quote? Get in touch!</p>
+        <p>Email: <a href="mailto:info@lightfixturedesign.com">info@lightfixturedesign.com</a></p>
+        <p>Phone: (123) 456-7890</p>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2024 Hira Light Fixture Design. All rights reserved.</p>
+    </footer>
+</body>
+</html>
